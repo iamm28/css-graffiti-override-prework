@@ -1,1 +1,12 @@
 /* write your override styles here */
+#wall > div {display: none}
+
+#wall > div#tag-2 {display: none}
+
+#wall:last-child {display: none}
+/*
+#wall > div {display: none}
+div#tag-2 + div#tag3 {display: none}
+
+#wall > div#tag3.slick.wicked {display: none}
+*/
